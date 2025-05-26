@@ -780,15 +780,15 @@ button {
   }
 }
 @font-face {
-  font-family: 'UbuntuMono';
-  src: url("https://unpkg.com/volantis-static@0.0.1660614606622/media/fonts/UbuntuMono/UbuntuMono-Regular.ttf");
+  font-family: 'consola';
+  src: url("https://cdn.jsdelivr.net/gh/Mr-Az1/Fonts/consola.ttf");
   font-weight: 'normal';
   font-style: 'normal';
   font-display: swap;
 }
 @font-face {
-  font-family: 'Varela Round';
-  src: url("https://unpkg.com/volantis-static@0.0.1660614606622/media/fonts/VarelaRound/VarelaRound-Regular.ttf");
+  font-family: 'consola';
+  src: url("https://cdn.jsdelivr.net/gh/Mr-Az1/Fonts/consola.ttf");
   font-weight: 'normal';
   font-style: 'normal';
   font-display: swap;
